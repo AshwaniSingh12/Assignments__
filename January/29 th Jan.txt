@@ -1,0 +1,31 @@
+1. Python was developed by Guido van Rossum.
+2. Python is support Object-oriented programming.
+3. Yes , Python is a case sensitive langauge.
+4. Python use .py extension.
+5. Python code is interpreted langauge.
+6. In Python, some common blocks of code used to define are:
+    Functions:
+    Classes: 
+    Conditional statements: 
+    Loops: 
+    Try-except
+    With statement
+7. We use ## for single line comment. -> ## this is a single line comment.
+8. import platform
+        print(platform.python_version())  ## This is use to know vwrsion of python.
+9. Lambda 
+10. PIP is a package manager for Python packages and PIP stands for Precise Infectious Packages.
+11. type()
+    pow()
+    tuple()
+    max()
+    list()
+    dict() etc...
+12. The highest possible length of an identifier in python is 79 characters.
+13. Easy to use.
+    poratble for user .
+    it gives free and open source.
+    it support high level and object oriented programing.
+14. Python is an object means dynamic memory allocation. Python memory manager automatically vanishes when the object is no longer in use.Heap data    structure is used for dynamic memory.
+15. First we install python from their site according to our system then we Click on Advanced System Settings. Then click on Environment Variables. This is where we can add Python to the PATH environmental variable.
+16. Yes , Indentation required in python.
